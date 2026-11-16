@@ -74,7 +74,8 @@ See `CHECKLIST.md` for the questions and fixes.
 - a self-test for the hooks and a 10-page guide, including what live testing showed (e.g. Claude "running the tests" with a
   command that runs none, then reporting they passed)
 
-Get it on Gumroad: https://lgafactory.gumroad.com/l/wzfyg (US$19, one-time purchase)
+US$19, one-time purchase, on Capafy (https://capafy.ai/agent/claude-md-ignored-diagnose-fix-kit/9072818938)
+or Gumroad (https://lgafactory.gumroad.com/l/wzfyg).
 
 ## License
 
